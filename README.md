@@ -23,3 +23,5 @@ By the end of this tutorial, you'll be able to confidently explore, clean, analy
 - Students
 - Researchers
 - Professionals new to R.
+# Youtube Link:
+https://youtu.be/GuLTGaXY8Lw
