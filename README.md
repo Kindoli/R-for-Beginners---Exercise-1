@@ -17,4 +17,9 @@ Ready to dive into data analysis with R? This hands-on tutorial is designed for 
 
 By the end of this tutorial, you'll be able to confidently explore, clean, analyze, and visualize data in R — a must-have skillset for any aspiring data analyst, scientist, or researcher.
 
-- Ideal for: Beginners in data science, students, researchers, and professionals new to R.
+# Ideal for: 
+
+- Beginners in data science
+- Students
+- Researchers
+- Professionals new to R.
